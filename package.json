@@ -31,7 +31,7 @@
 	"homepage": "https://github.com/matyunya/svelte-image#readme",
 	"dependencies": {
 		"axios": "^0.27.2",
-		"blurhash": "^2.0.2",
+		"blurhash": "^2.0.3",
 		"potrace": "^2.1.8",
 		"sharp": "latest",
 		"svelte": "latest",
@@ -41,7 +41,7 @@
 	"devDependencies": {
 		"@types/inquirer": "^9.0.2",
 		"@types/jest": "^29.1.1",
-		"@types/node": "^18.7.23",
+		"@types/node": "^18.8.1",
 		"@types/semver": "^7.3.12",
 		"del": "^7.0.0",
 		"eslint": "^8.24.0",
